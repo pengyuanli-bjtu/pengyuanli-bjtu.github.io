@@ -106,17 +106,18 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 </div>
 </div>
 
-
-
-
-
-
 # 🎖 Honors and Awards
 - *2023.11* First-class Academic Scholarship of Beijing Jiaotong University. 
 - *2023.06* Outstanding Graduate Student of the School of Computer Science, Beijing Jiaotong University.
 - *2022.10* National Bronze Award of the 2022 China University Computer Competition - Team Programming Ladder Competition.
 - *2022.10* National Bronze Award of China Computer Design Contest 2022.
 
+# 📌 Services
+## Conferences 
+- Reviewer: NeurIPS/AAAI/ACM MM
+
+## Journal
+- Reviewer: IEEE TPAMI/TIP/TKDE/TCYB/TNNLS/TMM, Neurocomputing 
 
 # 📖 Educations
 - *2024.06 - now*, Eng.D. Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
