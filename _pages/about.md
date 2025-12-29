@@ -17,42 +17,93 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Eng.D. student at the College of Computer and Information Technology, Beijing Jiaotong University(BJTU). My supervised by Prof. Dongxia Chang in the Center of Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TMM, and Neurocomputing. (Resume: EN/中文)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include multi-view/multi-modal representation learning, deep clustering, self-supervised learning, and contrastive learning. In particular, I focus on:
 
+*   🔍 **Contrastive Multi-view Clustering**
+
+*   🧠 **Incremental Multi-view/Multi-Modal Representation Learning**
+
+*   🌐 **Self-supervised Multi-view/Multi-Modal Representation Learning**
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+*   *2025.10*:  🎉🎉 One paper has been accepted by Neurocomputing 2025.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+*   *2025.09*:  🎉🎉 One paper has been accepted by Neurocomputing 2025.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+*   *2025.07*:  🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+*   *2025.07*:  🎉🎉 One paper has been accepted by ACM MM 2025.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+*   *2025.03*:  🎉🎉 One paper has been accepted by Neurocomputing 2025.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Publications
+
+[AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
+
+**Pengyuan Li**, Man Liu, Dongxia Chang\*, Yiming Wang, Zisen Kong, Yao Zhao
+
+[Paper](https://dl.acm.org/doi/10.1145/3746027.3754697) | [Code](https://github.com/Lummer-Li/AEMVC)
+
+
+*   We found that the embedding space learned using the encoder-decoder architecture cannot embrace the efficacy of different feature directions. Therefore, we propose a novel Activate-Then-Eliminate Strategy for Multi-View Clustering to adjust the contribution strength of different feature directions dynamically.
+
+[Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](#)
+
+**Pengyuan Li**, Dongxia Chang\*, Yiming Wang, Man Liu, Zisen Kong, Linhua Kong, Yao Zhao
+
+[Paper](#) | [Code](https://github.com/Lummer-Li/MISCC)
+
+
+*   We present a novel deep learning framework that mitigates view bias through joint optimization of intra-view similarity and cross-view correlation. The proposed method enhances fine-grained structures within each view and adaptively balances diverse information across views, ultimately improving clustering performance.
+
+[DCMVC: Dual Contrastive Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005612)
+
+**Pengyuan Li**, Dongxia Chang\*, Zisen Kong, Yiming Wang, Yao Zhao
+
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005612) | [Code](https://github.com/Lummer-Li/DCMVC)
+
+
+*   We propose a novel deep contrastive multi-view clustering method termed DCMVC. The dual contrastive mechanism can alleviate the constraints of a single positive sample on contrastive learning by incorporating category information to regularize the feature structure and fully explore the consistency of similar samples.
+
+[Bipartite Contrastive Multi-view Clustering with Singular Value Modulation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225022003)
+
+Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang\*, Yao Zhao
+
+Paper | Code
+
+
+*   We reformulate contrastive learning as a binary classification problem, avoiding the limitation in previous contrastive methods that heavily depend on naturally paired data. By capturing sample-level and category-level consistency relationships among multiple views, the learned representations are further refined.
+
+[Local Geometry-Enhanced Anchor Learning for Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225026256)
+
+Zisen Kong, Zhiqiang Fu, Dongxia Chang\*, Yiming Wang, **Pengyuan Li**, Yao Zhao
+
+Paper | Code
+
+
+*   We introduce a coarse-grained anchor learning mechanism that maps each view anchor to the consensus space, effectively improving the expressiveness and learning of the framework.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+*   *2023.11* First-class Academic Scholarship of Beijing Jiaotong University.
+
+*   *2023.06* Outstanding Graduate Student of the School of Computer Science, Beijing Jiaotong University.
+
+*   *2022.10* National Bronze Award of the 2022 China University Computer Competition - Team Programming Ladder Competition.
+
+*   *2022.10* National Bronze Award of China Computer Design Contest 2022.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+*   *2024.06 - now*, Eng.D. Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
+
+*   *2023.09 - 2024.06*, Master Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+*   *2023.03 - 2023.06*, [PCITC](http://www.pcitc.com/), China.
+
+
