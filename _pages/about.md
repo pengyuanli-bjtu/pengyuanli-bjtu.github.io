@@ -34,7 +34,7 @@ My research interests include multi-view/multi-modal representation learning, de
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 
 # 📝 Publications 
-> †: Co-First Author
+> +: Co-First Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" width="100%" style="height: 240px;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,7 +84,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 [Deep Learning on Histology Images for Differentiating of Fibro-Osseous](#)
 
-Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
+Aobo Zhang^+, **Pengyuan Li^+**, Jiang Xue^+, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
 [**Paper**](#) | [**Code**](#) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
