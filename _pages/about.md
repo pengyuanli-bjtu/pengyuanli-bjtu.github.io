@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Eng.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. My supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center of Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TMM, and Neurocomputing. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
+I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TMM, and Neurocomputing. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
 
 My research interests include multi-view/multi-modal representation learning, deep clustering, self-supervised learning, and contrastive learning. In particular, I focus on:
 - 🔍 **Contrastive Multi-view Clustering**
@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2025. 
@@ -33,6 +34,8 @@ My research interests include multi-view/multi-modal representation learning, de
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 
 # 📝 Publications 
+> †: Co-First Author
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" width="100%" style="height: 240px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,6 +79,18 @@ My research interests include multi-view/multi-modal representation learning, de
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JDR 2025</div><img src='images/DL4FO.png' alt="sym" width="100%" style="height: 240px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Learning on Histology Images for Differentiating of Fibro-Osseous](#)
+
+Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Our results demonstrate that integrating multi-slide and weakly supervised strategies significantly enhances diagnostic performance for fibro-osseous lesions. Compared to human pathologists, the multi-slide models achieved higher accuracy, whereas weakly supervised models consistently outperformed fully supervised models.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/BCMVC.jpg' alt="sym" width="100%" style="height: 240px;"></div></div>
@@ -107,6 +122,8 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 </div>
 
 # 🎖 Honors and Awards
+- *2025.11* First-class Academic Scholarship of Beijing Jiaotong University.
+- *2025.11* Special Scholarship of Beijing Jiaotong University - Jiaokong Technology Scholarship.
 - *2023.11* First-class Academic Scholarship of Beijing Jiaotong University. 
 - *2023.06* Outstanding Graduate Student of the School of Computer Science, Beijing Jiaotong University.
 - *2022.10* National Bronze Award of the 2022 China University Computer Competition - Team Programming Ladder Competition.
@@ -120,7 +137,7 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 - Reviewer: IEEE TPAMI/TIP/TKDE/TCYB/TNNLS/TMM, Neurocomputing 
 
 # 📖 Educations
-- *2024.06 - now*, Eng.D. Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
+- *2024.06 - now*, Ph.D. Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
 - *2023.09 - 2024.06*, Master Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
 
 # 💻 Internships
