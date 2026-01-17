@@ -54,11 +54,11 @@ My research interests include multi-view/multi-modal representation learning, de
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/MISCC.png' alt="sym" width="100%" style="height: 240px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](#)
+[Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](https://ieeexplore.ieee.org/document/11353460)
 
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Man Liu, Zisen Kong, Linhua Kong, Yao Zhao
 
-[**Paper**](#) | [**Code**](https://github.com/Lummer-Li/MISCC) 
+[**Paper**](https://ieeexplore.ieee.org/document/11353460) | [**Code**](https://github.com/Lummer-Li/MISCC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We present a novel deep learning framework that mitigates view bias through joint optimization of intra-view similarity and cross-view correlation. The proposed method enhances fine-grained structures within each view and adaptively balances diverse information across views, ultimately improving clustering performance.
 </div>
