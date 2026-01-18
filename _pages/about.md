@@ -40,7 +40,7 @@ My research interests include multi-view/multi-modal representation learning, de
   <span>* means equal contribution (Co-First Author)</span>
 </span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](#)
@@ -55,7 +55,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
@@ -70,7 +70,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/MISCC.png' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/MISCC.png' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](https://ieeexplore.ieee.org/document/11353460)
@@ -84,7 +84,7 @@ My research interests include multi-view/multi-modal representation learning, de
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/DCMVC.jpg' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/DCMVC.jpg' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DCMVC: Dual Contrastive Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005612)
@@ -98,7 +98,7 @@ My research interests include multi-view/multi-modal representation learning, de
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JDR 2025</div><img src='images/DL4FO.png' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JDR 2025</div><img src='images/DL4FO.png' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Learning on Histology Images for Differentiating of Fibro-Osseous](#)
@@ -112,7 +112,7 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/BCMVC.jpg' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/BCMVC.jpg' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Bipartite Contrastive Multi-view Clustering with Singular Value Modulation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225022003)
@@ -127,7 +127,7 @@ Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang*, Yao Zhao
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/LGEAC.png' alt="sym" style="height: 240px; width: 390px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/LGEAC.png' alt="sym" style="height: 240px; width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Local Geometry-Enhanced Anchor Learning for Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225026256)
