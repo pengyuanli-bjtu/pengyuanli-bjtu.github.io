@@ -30,7 +30,7 @@ My research interests include multi-view/multi-modal representation learning, de
 - *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
-- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2025. 
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2026. 
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2025. 
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 
@@ -70,7 +70,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='images/MISCC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/MISCC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](https://ieeexplore.ieee.org/document/11353460)
