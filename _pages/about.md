@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TMM, and Neurocomputing. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
+I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TKDE, TMM, and Neurocomputing. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
 
 My research interests include multi-view/multi-modal representation learning, deep clustering, self-supervised learning, and contrastive learning. In particular, I focus on:
 - 🔍 **Contrastive Multi-view Clustering**
@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
 - *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
@@ -36,12 +37,27 @@ My research interests include multi-view/multi-modal representation learning, de
 # 📝 Publications 
 > ^: Co-First Author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" width="100%" style="height: 240px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](#)
+
+**Pengyuan Li**, Dongxia Chang*, Yiming Wang, Zisen Kong, Linhua Kong, Yao Zhao
+
+[**Paper**](#) | [**Code**](https://github.com/Lummer-Li/DMVCS) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a disentangled contrastive multi-view clustering via semantic relevance invariance, which achieves intra-view and inter-view disentanglement and thus a more discriminative representation. The method not only makes disentangled representations containing different underlying information but also ensures their semantic relevance consistency.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" width="100%" style="height: 240px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
 
-**Pengyuan Li**, Man Liu, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
+**Pengyuan Li^**, Man Liu^, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
 
 [**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754697) | [**Code**](https://github.com/Lummer-Li/AEMVC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
