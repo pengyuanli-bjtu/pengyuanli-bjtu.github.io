@@ -37,7 +37,7 @@ My research interests include multi-view/multi-modal representation learning, de
 # 📝 Publications 
 <span style=" display: flex; align-items: center; font-size: 14px; color: #1565C0; background-color: #E3F2FD; padding: 6px 14px; border-radius: 6px; margin: 0 0 20px 4px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; border: 1px solid #BBDEFB;">
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
-  <span>* means equal contribution (Co-First Author)</span>
+  <span>^ means equal contribution (Co-First Author)</span>
 </span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
