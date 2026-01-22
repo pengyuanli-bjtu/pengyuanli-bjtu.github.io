@@ -43,11 +43,11 @@ My research interests include multi-view/multi-modal representation learning, de
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](#)
+[Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](https://ieeexplore.ieee.org/document/11359434)
 
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Zisen Kong, Linhua Kong, Yao Zhao
 
-[**Paper**](#) | [**Code**](https://github.com/Lummer-Li/DMVCS) 
+[**Paper**](https://ieeexplore.ieee.org/document/11359434) | [**Code**](https://github.com/Lummer-Li/DMVCS) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a disentangled contrastive multi-view clustering via semantic relevance invariance, which achieves intra-view and inter-view disentanglement and thus a more discriminative representation. The method not only makes disentangled representations containing different underlying information but also ensures their semantic relevance consistency.
 </div>
