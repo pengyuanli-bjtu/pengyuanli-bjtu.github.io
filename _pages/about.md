@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
 - *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
@@ -39,6 +40,27 @@ My research interests include multi-view/multi-modal representation learning, de
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
   <span>^ means equal contribution (Co-First Author)</span>
 </span>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/ARIA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tensorial Multi-view Clustering via Alternative Rank Minimization and Inter-view Alignment](https://ieeexplore.ieee.org/document/11403957)
+
+Zisen Kong, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
+
+[**Paper**](https://ieeexplore.ieee.org/document/11403957) | [**Code**](https://github.com/zskong/ARIA) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel rank minimization strategy for tighter rank function approximation. The strategy can effectively utilize the low-rank structure and higher-order
+correlations embedded in different views, which helps to generate a discriminative consensus representation.
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
