@@ -123,11 +123,11 @@ correlations embedded in different views, which helps to generate a discriminati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JDR 2025</div><img src='images/DL4FO.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Learning on Histology Images for Differentiating of Fibro-Osseous](#)
+[Deep Learning on Histology Images for Differentiating of Fibro-Osseous](https://journals.sagepub.com/doi/abs/10.1177/00220345261415888)
 
 Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
-[**Paper**](#) | [**Code**](#) 
+[**Paper**](https://journals.sagepub.com/doi/abs/10.1177/00220345261415888) | [**Code**](#) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Our results demonstrate that integrating multi-slide and weakly supervised strategies significantly enhances diagnostic performance for fibro-osseous lesions. Compared to human pathologists, the multi-slide models achieved higher accuracy, whereas weakly supervised models consistently outperformed fully supervised models.
 </div>
