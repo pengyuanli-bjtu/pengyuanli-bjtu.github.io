@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations to Zechang❗️
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
 - *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
@@ -40,6 +41,20 @@ My research interests include multi-view/multi-modal representation learning, de
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
   <span>^ means equal contribution (Co-First Author)</span>
 </span>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/IIBalance.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)
+
+Zechang Xiong, Kexin Tang, Da Li*, **Pengyuan Li**, Wenkang Kong, Yulan Hu
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We argue that modality balance should be defined by an intrinsic equilibrium determined by the information capacity of each modality, rather than heuristic equalization. Therefore, we propose IIBalance, a multimodal learning framework for balanced learning  under capacity-aware guidance.
+</div>
+</div>
 
 
 
