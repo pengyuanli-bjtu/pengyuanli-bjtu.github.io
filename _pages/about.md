@@ -26,12 +26,13 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations to Zechang❗️
-- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
+- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2026. Congratulations, Brother Zisen❗️
+- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. Congratulations, Brother Zisen❗️
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
-- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. 
-- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
-- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. Congratulations, Brother Aobo❗️
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. Congratulations, Brother Zisen❗️ 
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. Congratulations, Brother Teng❗️  
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2026. 
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2025. 
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
@@ -41,6 +42,25 @@ My research interests include multi-view/multi-modal representation learning, de
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
   <span>^ means equal contribution (Co-First Author)</span>
 </span>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/ATMCA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
+
+Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We provide an intuitive solution to the Anchor-Unaligned Problem. The method introduces the reordering alignment mechanism and augmented tensorized consensus learning into the joint optimization
+framework.
+</div>
+</div>
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/IIBalance.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
