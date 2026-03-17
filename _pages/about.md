@@ -26,16 +26,16 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2026. Congratulations, Brother Zisen❗️
+- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE TMM. Congratulations, Brother Zisen❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
-- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. Congratulations, Brother Zisen❗️
-- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering 2026. 
-- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR 2025. Congratulations, Brother Aobo❗️
-- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. Congratulations, Brother Zisen❗️ 
-- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. Congratulations, Brother Teng❗️  
-- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia 2026. 
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE. Congratulations, Brother Zisen❗️
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE. 
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR. Congratulations, Brother Aobo❗️
+- *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. Congratulations, Brother Zisen❗️ 
+- *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. Congratulations, Brother Teng❗️  
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE TMM. 
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2025. 
-- *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing 2025. 
+- *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. 
 
 # 📝 Publications 
 <span style=" display: flex; align-items: center; font-size: 14px; color: #1565C0; background-color: #E3F2FD; padding: 6px 14px; border-radius: 6px; margin: 0 0 20px 4px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; border: 1px solid #BBDEFB;">
