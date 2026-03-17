@@ -26,14 +26,14 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE TMM. Congratulations, Brother Zisen❗️
+- *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Zisen❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
-- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE. Congratulations, Brother Zisen❗️
-- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE TKDE. 
-- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by JDR. Congratulations, Brother Aobo❗️
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering. Congratulations, Brother Zisen❗️
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering. 
+- *2025.12*: &nbsp;🎉🎉 One paper has been accepted by the Journal of Dental Research. Congratulations, Brother Aobo❗️
 - *2025.10*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. Congratulations, Brother Zisen❗️ 
 - *2025.09*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. Congratulations, Brother Teng❗️  
-- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE TMM. 
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. 
 - *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ACM MM 2025. 
 - *2025.03*: &nbsp;🎉🎉 One paper has been accepted by Neurocomputing. 
 
