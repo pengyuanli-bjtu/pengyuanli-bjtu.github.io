@@ -68,9 +68,9 @@ framework.
 
 [Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)
 
-Zechang Xiong, Kexin Tang, Da Li*, **Pengyuan Li**, Wenkang Kong, Yulan Hu
+Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 
-[**Paper**](#) | [**Code**](#) 
+[**Paper**](http://arxiv.org/abs/2603.17347) | [**Code**](https://github.com/XiongZechang/IIBalance) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We argue that modality balance should be defined by an intrinsic equilibrium determined by the information capacity of each modality, rather than heuristic equalization. Therefore, we propose IIBalance, a multimodal learning framework for balanced learning  under capacity-aware guidance.
 </div>
