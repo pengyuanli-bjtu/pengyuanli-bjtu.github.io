@@ -74,7 +74,7 @@ framework.
 [Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)、
 
 ![IEEE International Conference on Multimedia and Expo 2026](https://img.shields.io/badge/IEEE%20International%20Conference%20on%20Multimedia%20and%20Expo%202026-E6F7FF?style=flat&color=0091FF)
-![CCF B](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
 
 Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 
@@ -127,23 +127,6 @@ correlations embedded in different views, which helps to generate a discriminati
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
-
-![ACM Multimedia](https://img.shields.io/badge/ACM%20Multimedia%202025-E6F7FF?style=flat&color=0091FF)
-![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
-
-**Pengyuan Li^**, Man Liu^, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
-
-[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754697) | [**Code**](https://github.com/Lummer-Li/AEMVC) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We found that the embedding space learned using the encoder-decoder architecture cannot embrace the efficacy of different feature directions. Therefore, we propose a novel Activate-Then-Eliminate Strategy for Multi-View Clustering to adjust the contribution strength of different feature directions dynamically.
-</div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/MISCC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -162,6 +145,30 @@ correlations embedded in different views, which helps to generate a discriminati
 - We present a novel deep learning framework that mitigates view bias through joint optimization of intra-view similarity and cross-view correlation. The proposed method enhances fine-grained structures within each view and adaptively balances diverse information across views, ultimately improving clustering performance.
 </div>
 </div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/AEMVC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
+
+![ACM Multimedia](https://img.shields.io/badge/ACM%20Multimedia%202025-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+
+**Pengyuan Li^**, Man Liu^, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754697) | [**Code**](https://github.com/Lummer-Li/AEMVC) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We found that the embedding space learned using the encoder-decoder architecture cannot embrace the efficacy of different feature directions. Therefore, we propose a novel Activate-Then-Eliminate Strategy for Multi-View Clustering to adjust the contribution strength of different feature directions dynamically.
+</div>
+</div>
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/DCMVC.jpg' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
