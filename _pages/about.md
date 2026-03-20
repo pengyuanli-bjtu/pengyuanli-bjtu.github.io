@@ -48,14 +48,12 @@ My research interests include multi-view/multi-modal representation learning, de
 <div class='paper-box-text' markdown="1">
 
 [ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
-<li class=" flex items-center group">
-    <div class="w-1.5 h-1.5 rounded-full bg-emerald-400 mr-3"></div>
-    <span class="text-sm font-medium text-neutral-700 group-hover:text-primary transition-colors">IEEE Transactions on Multimedia (TMM)</span>
-    <div class="ml-2 flex gap-1">
-        <span class="text-[9px] font-bold bg-red-50 text-red-600 border border-red-100 px-1 py-0.5 rounded">CCF-A</span>
-        <span class="text-[9px] font-bold bg-amber-50 text-amber-600 border border-amber-200 px-1 py-0.5 rounded">JCR Q1</span>
-    </div>
-</li>
+
+[![IEEE TMM](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-orange?style=for-the-badge)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046)
+[![2026](https://img.shields.io/badge/2026-gray?style=for-the-badge)](#)
+[![CCF-A](https://img.shields.io/badge/CCF-A-red?style=for-the-badge)](https://www.ccf.org.cn/)
+[![JCR Q1](https://img.shields.io/badge/JCR-Q1-purple?style=for-the-badge)](#)
+[![IF](https://img.shields.io/badge/IF-9.7-green?style=for-the-badge)](#)
 
 Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
 
