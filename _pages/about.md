@@ -49,11 +49,11 @@ My research interests include multi-view/multi-modal representation learning, de
 
 [ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
 
-![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20TMM-white?style=flat&logo=IEEE&labelColor=f1f5f9&color=2c3e50)
-![2026](https://img.shields.io/badge/2025-white?style=flat&labelColor=f8f9fa&color=495057)
-![CCF-A](https://img.shields.io/badge/CCF-A-white?style=flat&labelColor=fef2f2&color=d93030)
-![JCR Q1](https://img.shields.io/badge/JCR%20Q1-white?style=flat&labelColor=f0f7ff&color=1677ff)
-![IF 9.7](https://img.shields.io/badge/IF%205.6-white?style=flat&labelColor=f6ffed&color=52c41a)
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-EFF8FF?style=flat&color=0366D6)
+![2026](https://img.shields.io/badge/2026-F6F8FA?style=flat&color=656D76)
+![CCF-A](https://img.shields.io/badge/CCF-A-FFF1F0?style=flat&color=CF222E)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-F0F7FF?style=flat&color=1677FF)
+![IF 9.7](https://img.shields.io/badge/IF%209.7-F0FFF4?style=flat&color=2DA965)
 
 Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
 
