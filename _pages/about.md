@@ -49,11 +49,10 @@ My research interests include multi-view/multi-modal representation learning, de
 
 [ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
 
-![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia-EFF8FF?style=flat&color=0366D6)
-![2026](https://img.shields.io/badge/2026-F6F8FA?style=flat&color=656D76)
-![CCF-A](https://img.shields.io/badge/CCF-A-FFF1F0?style=flat&color=CF222E)
-![JCR Q1](https://img.shields.io/badge/JCR%20Q1-F0F7FF?style=flat&color=1677FF)
-![IF 9.7](https://img.shields.io/badge/IF%209.7-F0FFF4?style=flat&color=2DA965)
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E0F7FF?style=flat&color=007BFF)
+![CCF A](https://img.shields.io/badge/CCF%20A-E6F7FF?style=flat&color=0091FF)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
 
 Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
 
