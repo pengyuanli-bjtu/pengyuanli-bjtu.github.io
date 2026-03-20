@@ -71,7 +71,10 @@ framework.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/IIBalance.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)
+[Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)、
+
+![IEEE International Conference on Multimedia and Expo 2026](https://img.shields.io/badge/IEEE%International%20Conference%20on%20Multimedia%20and%20Expo%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 
 Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 
@@ -89,6 +92,11 @@ Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 
 [Tensorial Multi-view Clustering via Alternative Rank Minimization and Inter-view Alignment](https://ieeexplore.ieee.org/document/11403957)
 
+![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
+
 Zisen Kong, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
 [**Paper**](https://ieeexplore.ieee.org/document/11403957) | [**Code**](https://github.com/zskong/ARIA) 
@@ -99,13 +107,15 @@ correlations embedded in different views, which helps to generate a discriminati
 </div>
 
 
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](https://ieeexplore.ieee.org/document/11359434)
+
+![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
 
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Zisen Kong, Linhua Kong, Yao Zhao
 
@@ -122,6 +132,9 @@ correlations embedded in different views, which helps to generate a discriminati
 
 [AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/10.1145/3746027.3754697)
 
+![ACM Multimedia](https://img.shields.io/badge/ACM%20Multimedia%202025-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+
 **Pengyuan Li^**, Man Liu^, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
 
 [**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754697) | [**Code**](https://github.com/Lummer-Li/AEMVC) 
@@ -137,6 +150,11 @@ correlations embedded in different views, which helps to generate a discriminati
 
 [Deep Multi-view Clustering with Intra-view Similarity and Cross-view Correlation Learning](https://ieeexplore.ieee.org/document/11353460)
 
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
+
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Man Liu, Zisen Kong, Linhua Kong, Yao Zhao
 
 [**Paper**](https://ieeexplore.ieee.org/document/11353460) | [**Code**](https://github.com/Lummer-Li/MISCC) 
@@ -150,6 +168,11 @@ correlations embedded in different views, which helps to generate a discriminati
 <div class='paper-box-text' markdown="1">
 
 [DCMVC: Dual Contrastive Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225005612)
+
+![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
+![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
+![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
+![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
 
 **Pengyuan Li**, Dongxia Chang*, Zisen Kong, Yiming Wang, Yao Zhao
 
@@ -165,6 +188,10 @@ correlations embedded in different views, which helps to generate a discriminati
 
 [Deep Learning on Histology Images for Differentiating of Fibro-Osseous](https://journals.sagepub.com/doi/abs/10.1177/00220345261415888)
 
+![Journal of Dental Research](https://img.shields.io/badge/Journal%20of%20Dental%20Research%202025-E6F7FF?style=flat&color=0091FF)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 5.9](https://img.shields.io/badge/IF%205.9-FFEBC2?style=flat&color=FF9800)
+
 Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
 [**Paper**](https://journals.sagepub.com/doi/abs/10.1177/00220345261415888) | [**Code**](#) 
@@ -178,6 +205,11 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 <div class='paper-box-text' markdown="1">
 
 [Bipartite Contrastive Multi-view Clustering with Singular Value Modulation](https://www.sciencedirect.com/science/article/abs/pii/S0925231225022003)
+
+![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
+![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
+![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
+![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
 
 Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang*, Yao Zhao
 
@@ -193,6 +225,11 @@ Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang*, Yao Zhao
 <div class='paper-box-text' markdown="1">
 
 [Local Geometry-Enhanced Anchor Learning for Multi-view Clustering](https://www.sciencedirect.com/science/article/abs/pii/S0925231225026256)
+
+![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
+![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
+![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
+![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
 
 Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
@@ -212,7 +249,7 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
 # 📌 Services
 ## Conferences 
-- Reviewer: NeurIPS/AAAI/ACM MM
+- Reviewer: NeurIPS/ICML/AAAI/ACM MM
 
 ## Journal
 - Reviewer: IEEE TPAMI/TIP/TKDE/TCYB/TNNLS/TMM, Neurocomputing 
