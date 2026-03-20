@@ -49,7 +49,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 [ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
 
-![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E0F7FF?style=flat&color=007BFF)
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-FFECEC?style=flat&color=FF3333)
 ![CCF A](https://img.shields.io/badge/CCF%20A-E6F7FF?style=flat&color=0091FF)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
 ![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
