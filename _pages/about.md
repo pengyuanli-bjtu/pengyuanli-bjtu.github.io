@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Zisen❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering. Congratulations, Brother Zisen❗️
@@ -42,6 +43,26 @@ My research interests include multi-view/multi-modal representation learning, de
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
   <span>^ means equal contribution (Co-First Author)</span>
 </span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](#)
+
+![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 7.6](https://img.shields.io/badge/IF%207.6-FFEBC2?style=flat&color=FF9800)
+
+Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan Zhuang, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a multi-level decoupled trend learning (MDTL) framework for MTS prediction, which decouples the complex MTS signals at trend and spatial-temporal dependency levels and then fuses them in a flexible way.
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/ATMCA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
