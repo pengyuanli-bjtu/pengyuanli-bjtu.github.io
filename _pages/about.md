@@ -47,7 +47,6 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 ### 🎓 First-author Publications
-<hr>
 
 <div class='paper-box' style="margin-top: -10px;"><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,7 +146,6 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 
 
 ### 📑 Other-author Publications
-<hr>
 
 <div class='paper-box' style="margin-top: -10px;"><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
