@@ -27,7 +27,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
-- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology. Congratulations, Brother Linhua❗️
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Linhua❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Zisen❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering. Congratulations, Brother Zisen❗️
@@ -46,7 +46,7 @@ My research interests include multi-view/multi-modal representation learning, de
 </span>
 
 
-## First-author Publications
+#### 🎓 First-author Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -144,7 +144,7 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 </div>
 
 
-## Other-author Publications
+#### 📑 Other-author Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
