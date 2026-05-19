@@ -46,9 +46,9 @@ My research interests include multi-view/multi-modal representation learning, de
 </span>
 
 
-### 🎓 First-author Publications
+## 🎓 First-author Publications
 
-<div class='paper-box' style="margin-top: -10px;"><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Disentangled Contrastive Multi-view Clustering via Semantic Relevance Invariance](https://ieeexplore.ieee.org/document/11359434)
@@ -145,9 +145,9 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 </div>
 
 
-### 📑 Other-author Publications
+## 📑 Other-author Publications
 
-<div class='paper-box' style="margin-top: -10px;"><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](#)
