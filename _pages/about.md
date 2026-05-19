@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TKDE, TMM, and Neurocomputing. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
+I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TKDE, TMM, TCSVT, and PR. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
 
 My research interests include multi-view/multi-modal representation learning, deep clustering, self-supervised learning, and contrastive learning. In particular, I focus on:
 - 🔍 **Contrastive Multi-view Clustering**
@@ -27,6 +27,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Circuits and Systems for Video Technology. Congratulations, Brother Linhua❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Zisen❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by ICME 2026. Congratulations, Brother Zechang❗️
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Knowledge and Data Engineering. Congratulations, Brother Zisen❗️
@@ -44,90 +45,8 @@ My research interests include multi-view/multi-modal representation learning, de
   <span>^ means equal contribution (Co-First Author)</span>
 </span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](#)
-
-![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition%202026-E6F7FF?style=flat&color=0091FF)
-![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
-![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 7.6](https://img.shields.io/badge/IF%207.6-FFEBC2?style=flat&color=FF9800)
-
-Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan Zhuang, Yao Zhao
-
-[**Paper**](#) | [**Code**](#) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a multi-level decoupled trend learning (MDTL) framework for MTS prediction, which decouples the complex MTS signals at trend and spatial-temporal dependency levels and then fuses them in a flexible way.
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/ATMCA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
-
-![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
-![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
-![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
-
-Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
-
-[**Paper**](#) | [**Code**](#) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We provide an intuitive solution to the Anchor-Unaligned Problem. The method introduces the reordering alignment mechanism and augmented tensorized consensus learning into the joint optimization
-framework.
-</div>
-</div>
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/IIBalance.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)、
-
-![IEEE International Conference on Multimedia and Expo 2026](https://img.shields.io/badge/IEEE%20International%20Conference%20on%20Multimedia%20and%20Expo%202026-E6F7FF?style=flat&color=0091FF)
-![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
-
-Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
-
-[**Paper**](http://arxiv.org/abs/2603.17347) | [**Code**](https://github.com/XiongZechang/IIBalance) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We argue that modality balance should be defined by an intrinsic equilibrium determined by the information capacity of each modality, rather than heuristic equalization. Therefore, we propose IIBalance, a multimodal learning framework for balanced learning  under capacity-aware guidance.
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/ARIA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Tensorial Multi-view Clustering via Alternative Rank Minimization and Inter-view Alignment](https://ieeexplore.ieee.org/document/11403957)
-
-![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
-![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
-![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
-
-Zisen Kong, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
-
-[**Paper**](https://ieeexplore.ieee.org/document/11403957) | [**Code**](https://github.com/zskong/ARIA) 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a novel rank minimization strategy for tighter rank function approximation. The strategy can effectively utilize the low-rank structure and higher-order
-correlations embedded in different views, which helps to generate a discriminative consensus representation.
-</div>
-</div>
-
-
+## First-author Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -188,10 +107,6 @@ correlations embedded in different views, which helps to generate a discriminati
 </div>
 
 
-
-
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/DCMVC.jpg' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -227,6 +142,103 @@ Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Z
 - Our results demonstrate that integrating multi-slide and weakly supervised strategies significantly enhances diagnostic performance for fibro-osseous lesions. Compared to human pathologists, the multi-slide models achieved higher accuracy, whereas weakly supervised models consistently outperformed fully supervised models.
 </div>
 </div>
+
+
+## Other-author Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](#)
+
+![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 7.6](https://img.shields.io/badge/IF%207.6-FFEBC2?style=flat&color=FF9800)
+
+Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan Zhuang, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a multi-level decoupled trend learning (MDTL) framework for MTS prediction, which decouples the complex MTS signals at trend and spatial-temporal dependency levels and then fuses them in a flexible way.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/RCAlign.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting Radar Camera Alignment by Contrastive Learning for 3D Object Detection](#)
+
+![TCSVT](https://img.shields.io/badge/IEEE%20Transactions%20on%20CSVT%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 8.4](https://img.shields.io/badge/IF%208.4-FFEBC2?style=flat&color=FF9800)
+
+Linhua Kong, Dongxia Chang, Lian Liu, Zisen Kong, **Pengyuan Li**, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel radar camera alignment model called RCAlign based on the sparse BEV alignment methods for 3D object detection.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/ATMCA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ATMCA: Augmented Tensorized Consensus Learning for Multi-view Clustering with Anchor-Aligned](#)
+
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
+
+Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We provide an intuitive solution to the Anchor-Unaligned Problem. The method introduces the reordering alignment mechanism and augmented tensorized consensus learning into the joint optimization
+framework.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/IIBalance.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Forced Modality Balance: Intrinsic Information Budgets for Multimodal Learning](#)、
+
+![IEEE International Conference on Multimedia and Expo 2026](https://img.shields.io/badge/IEEE%20International%20Conference%20on%20Multimedia%20and%20Expo%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+
+Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
+
+[**Paper**](http://arxiv.org/abs/2603.17347) | [**Code**](https://github.com/XiongZechang/IIBalance) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We argue that modality balance should be defined by an intrinsic equilibrium determined by the information capacity of each modality, rather than heuristic equalization. Therefore, we propose IIBalance, a multimodal learning framework for balanced learning  under capacity-aware guidance.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/ARIA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Tensorial Multi-view Clustering via Alternative Rank Minimization and Inter-view Alignment](https://ieeexplore.ieee.org/document/11403957)
+
+![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
+
+Zisen Kong, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
+
+[**Paper**](https://ieeexplore.ieee.org/document/11403957) | [**Code**](https://github.com/zskong/ARIA) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel rank minimization strategy for tighter rank function approximation. The strategy can effectively utilize the low-rank structure and higher-order
+correlations embedded in different views, which helps to generate a discriminative consensus representation.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/BCMVC.jpg' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
