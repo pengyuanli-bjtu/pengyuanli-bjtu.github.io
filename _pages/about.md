@@ -212,6 +212,7 @@ framework.
 
 ![IEEE International Conference on Multimedia and Expo 2026](https://img.shields.io/badge/IEEE%20International%20Conference%20on%20Multimedia%20and%20Expo%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![Spotlight](https://img.shields.io/badge/Spotlight-D1FAE3?style=flat&color=00C853)
 
 Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 
