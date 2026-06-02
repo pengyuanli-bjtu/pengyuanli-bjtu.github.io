@@ -48,6 +48,25 @@ My research interests include multi-view/multi-modal representation learning, de
 
 ## 🎓 First-author Publications
 
+<div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/HAMVC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond One-Layer Decision: Hierarchical Multi-view Clustering with Progressive Cross-Layer Fusion](#)
+
+![TCSVT](https://img.shields.io/badge/IEEE%20Transactions%20on%20CSVT%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 8.4](https://img.shields.io/badge/IF%208.4-FFEBC2?style=flat&color=FF9800)
+
+Kaixuan Zhou^, **Pengyuan Li^**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao Zhao
+
+[**Paper**](#) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel Hierarchical-Aware Multi-view Clustering framework. Unlike conventional approaches restricted to single-layer semantics, this framework establishes a holistic learning paradigm that transcends the representation bottleneck by simultaneously exploiting intra-view hierarchy and inter-view consensus.
+</div>
+</div>
+
+
 <div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/DMVCS.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
