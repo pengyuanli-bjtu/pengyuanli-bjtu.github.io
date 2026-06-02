@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Kaixuan❗️
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Linhua❗️
 - *2026.03*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Zisen❗️
