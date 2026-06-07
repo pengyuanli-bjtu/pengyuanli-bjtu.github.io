@@ -43,7 +43,7 @@ My research interests include multi-view/multi-modal representation learning, de
 # 📝 Publications 
 <span style=" display: flex; align-items: center; font-size: 14px; color: #1565C0; background-color: #E3F2FD; padding: 6px 14px; border-radius: 6px; margin: 0 0 20px 4px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; border: 1px solid #BBDEFB;">
   <span style="background-color:#2196F3; color:#ffffff; width:22px; height:22px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-weight:500; margin-right:10px; flex-shrink:0; font-size:13px;">i</span>
-  <span>^ means equal contribution (Co-First Author)</span>
+  <span>† means equal contribution (Co-First Author)</span>
 </span>
 
 
@@ -59,7 +59,7 @@ My research interests include multi-view/multi-modal representation learning, de
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
 ![IF 8.4](https://img.shields.io/badge/IF%208.4-FFEBC2?style=flat&color=FF9800)
 
-Kaixuan Zhou^, **Pengyuan Li^**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao Zhao
+Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao Zhao
 
 [**Paper**](#) | [**Code**](#) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -119,7 +119,7 @@ Kaixuan Zhou^, **Pengyuan Li^**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao 
 ![ACM Multimedia](https://img.shields.io/badge/ACM%20Multimedia%202025-E6F7FF?style=flat&color=0091FF)
 ![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 
-**Pengyuan Li^**, Man Liu^, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
+**Pengyuan Li†**, Man Liu†, Dongxia Chang*, Yiming Wang, Zisen Kong, Yao Zhao
 
 [**Paper**](https://dl.acm.org/doi/10.1145/3746027.3754697) | [**Code**](https://github.com/Lummer-Li/AEMVC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -156,7 +156,7 @@ Kaixuan Zhou^, **Pengyuan Li^**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao 
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
 ![IF 5.9](https://img.shields.io/badge/IF%205.9-FFEBC2?style=flat&color=FF9800)
 
-Aobo Zhang^, **Pengyuan Li^**, Jiang Xue^, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
+Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
 [**Paper**](https://journals.sagepub.com/doi/abs/10.1177/00220345261415888) | [**Code**](#) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
