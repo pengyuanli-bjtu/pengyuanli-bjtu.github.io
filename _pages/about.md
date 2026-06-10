@@ -170,7 +170,7 @@ Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua
 <div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](#)
+[Multi-Level Decoupled Trend Learning for GNN-Based Multivariate Time Series Prediction](https://www.sciencedirect.com/science/article/pii/S0031320326009611)
 
 ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
@@ -179,7 +179,7 @@ Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua
 
 Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan Zhuang, Yao Zhao
 
-[**Paper**](#) | [**Code**](#) 
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320326009611) | [**Code**](#) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a multi-level decoupled trend learning (MDTL) framework for MTS prediction, which decouples the complex MTS signals at trend and spatial-temporal dependency levels and then fuses them in a flexible way.
 </div>
