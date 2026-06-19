@@ -57,7 +57,7 @@ My research interests include multi-view/multi-modal representation learning, de
 ![TCSVT](https://img.shields.io/badge/IEEE%20Transactions%20on%20CSVT%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 8.4](https://img.shields.io/badge/IF%208.4-FFEBC2?style=flat&color=FF9800)
+![IF 10.8](https://img.shields.io/badge/IF%2010.8-FFEBC2?style=flat&color=FF9800)
 
 Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, Yao Zhao
 
@@ -76,7 +76,7 @@ Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, 
 ![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
+![IF 11.6](https://img.shields.io/badge/IF%2011.6-FFEBC2?style=flat&color=FF9800)
 
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Zisen Kong, Linhua Kong, Yao Zhao
 
@@ -97,7 +97,7 @@ Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, 
 ![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
+![IF 9.9](https://img.shields.io/badge/IF%209.9-FFEBC2?style=flat&color=FF9800)
 
 **Pengyuan Li**, Dongxia Chang*, Yiming Wang, Man Liu, Zisen Kong, Linhua Kong, Yao Zhao
 
@@ -136,7 +136,7 @@ Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, 
 ![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
 ![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
 ![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
-![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
+![IF 6.7](https://img.shields.io/badge/IF%206.7-FFEBC2?style=flat&color=FF9800)
 
 **Pengyuan Li**, Dongxia Chang*, Zisen Kong, Yiming Wang, Yao Zhao
 
@@ -154,7 +154,7 @@ Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, 
 
 ![Journal of Dental Research](https://img.shields.io/badge/Journal%20of%20Dental%20Research%202025-E6F7FF?style=flat&color=0091FF)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 5.9](https://img.shields.io/badge/IF%205.9-FFEBC2?style=flat&color=FF9800)
+![IF 6.6](https://img.shields.io/badge/IF%2056.6-FFEBC2?style=flat&color=FF9800)
 
 Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
@@ -175,7 +175,7 @@ Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua
 ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 7.6](https://img.shields.io/badge/IF%207.6-FFEBC2?style=flat&color=FF9800)
+![IF 9.1](https://img.shields.io/badge/IF%209.1-FFEBC2?style=flat&color=FF9800)
 
 Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan Zhuang, Yao Zhao
 
@@ -194,7 +194,7 @@ Shaohan Li, Zhenfeng Zhu, Youru Li, Yeyu Yan, Shuai Zheng, **Pengyuan Li**, Yan 
 ![TCSVT](https://img.shields.io/badge/IEEE%20Transactions%20on%20CSVT%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 8.4](https://img.shields.io/badge/IF%208.4-FFEBC2?style=flat&color=FF9800)
+![IF 10.8](https://img.shields.io/badge/IF%2010.8-FFEBC2?style=flat&color=FF9800)
 
 Linhua Kong, Dongxia Chang, Lian Liu, Zisen Kong, **Pengyuan Li**, Yao Zhao
 
@@ -213,7 +213,7 @@ Linhua Kong, Dongxia Chang, Lian Liu, Zisen Kong, **Pengyuan Li**, Yao Zhao
 ![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 9.7](https://img.shields.io/badge/IF%209.7-FFEBC2?style=flat&color=FF9800)
+![IF 9.9](https://img.shields.io/badge/IF%209.9-FFEBC2?style=flat&color=FF9800)
 
 Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
 
@@ -251,7 +251,7 @@ Zechang Xiong, Da Li*,  Kexin Tang, **Pengyuan Li**, Wenkang Kong, Yulan Hu
 ![IEEE Transactions on Knowledge and Data Engineering](https://img.shields.io/badge/IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202026-E6F7FF?style=flat&color=0091FF)
 ![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 10.4](https://img.shields.io/badge/IF%2010.4-FFEBC2?style=flat&color=FF9800)
+![IF 11.6](https://img.shields.io/badge/IF%2011.6-FFEBC2?style=flat&color=FF9800)
 
 Zisen Kong, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
@@ -272,7 +272,7 @@ correlations embedded in different views, which helps to generate a discriminati
 ![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
 ![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
 ![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
-![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
+![IF 6.7](https://img.shields.io/badge/IF%206.7-FFEBC2?style=flat&color=FF9800)
 
 Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang*, Yao Zhao
 
@@ -292,7 +292,7 @@ Teng Zhang, **Pengyuan Li**, Zisen Kong, Dongxia Chang*, Yao Zhao
 ![Neurocomputing](https://img.shields.io/badge/Neurocomputing%202025-E6F7FF?style=flat&color=0091FF)
 ![CCF C](https://img.shields.io/badge/CCF%20C-FFECEC?style=flat&color=FF3333)
 ![JCR Q2](https://img.shields.io/badge/JCR%20Q2-D1FAE3?style=flat&color=00C853)
-![IF 6.5](https://img.shields.io/badge/IF%206.5-FFEBC2?style=flat&color=FF9800)
+![IF 6.7](https://img.shields.io/badge/IF%206.7-FFEBC2?style=flat&color=FF9800)
 
 Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
