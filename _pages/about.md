@@ -154,7 +154,7 @@ Kaixuan Zhou†, **Pengyuan Li†**, Jiahui Zhang, Dongxia Chang*, Yiming Wang, 
 
 ![Journal of Dental Research](https://img.shields.io/badge/Journal%20of%20Dental%20Research%202025-E6F7FF?style=flat&color=0091FF)
 ![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
-![IF 6.6](https://img.shields.io/badge/IF%2056.6-FFEBC2?style=flat&color=FF9800)
+![IF 6.6](https://img.shields.io/badge/IF%206.6-FFEBC2?style=flat&color=FF9800)
 
 Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua Ge, Zhixiu Xu, Zhipeng Sun, Dongxia Chang*, Lisha Sun, Tiejun Li
 
