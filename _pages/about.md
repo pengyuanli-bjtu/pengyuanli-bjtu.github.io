@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University(BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TKDE, TMM, TCSVT, and PR. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
+I am a Ph.D. student at the College of Computer and Information Technology, <a href='https://www.bjtu.edu.cn/'>Beijing Jiaotong University (BJTU)</a>. I am supervised by Prof. <a href='https://faculty.bjtu.edu.cn/8516/'>Dongxia Chang</a> in the Center for Digital Media Information Processing Lab (Mepro). I have published several papers in SCI/CCF conferences and journals, including ACM MM, TKDE, TMM, TCSVT, and PR. (Resume: <a href='images/english.pdf'>EN</a>/<a href="images/chinese.pdf">中文</a>)
 
 My research interests include multi-view/multi-modal representation learning, deep clustering, self-supervised learning, and contrastive learning. In particular, I focus on:
 - 🔍 **Contrastive Multi-view Clustering**
@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted by Neural Networks. Congratulations, Brother Bo❗️
 - *2026.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Kaixuan❗️
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Linhua❗️
@@ -167,6 +168,24 @@ Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua
 
 ## 📑 Other-author Publications
 
+<div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">NN 2026</div><img src='images/ADIMC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anchor-based Disentanglement Framework for Incremental Multi-view Clustering](https://www.sciencedirect.com/science/article/pii/S0893608026007872)
+
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks%202026-E6F7FF?style=flat&color=0091FF)
+![CCF B](https://img.shields.io/badge/CCF%20B-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 7.2](https://img.shields.io/badge/IF%207.2-FFEBC2?style=flat&color=FF9800)
+
+Bo Zhong, **Pengyuan Li**, Zisen Kong, Dongxia Chang, Yiming Wang, Yao Zhao
+
+[**Paper**](https://www.sciencedirect.com/science/article/pii/S0893608026007872) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel Anchor-based Disentanglement Framework for Incremental Multi-view Clustering (ADIMC), which is a successful attempt to introduce disentangled representation learning into incremental multi-view clustering. Combined with the anchor-based latent knowledge extraction module, ADIMC effectively improves scalability.
+</div>
+</div>
+
 <div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='images/MDTL.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -302,7 +321,9 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 </div>
 </div>
 
+
 # 🎖 Honors and Awards
+- *2026.04* Supported by Fundamental Research Funds for the Central Universities.
 - *2025.11* First-class Academic Scholarship of Beijing Jiaotong University.
 - *2025.11* Special Scholarship of Beijing Jiaotong University - Jiaokong Technology Scholarship.
 - *2023.11* First-class Academic Scholarship of Beijing Jiaotong University. 
