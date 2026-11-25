@@ -26,6 +26,7 @@ My research interests include multi-view/multi-modal representation learning, de
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on Multimedia. Congratulations, Brother Bo❗️
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted by Neural Networks. Congratulations, Brother Bo❗️
 - *2026.06*: &nbsp;🎉🎉 One paper has been accepted by IEEE Transactions on CSVT. Congratulations, Brother Kaixuan❗️
 - *2026.05*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition. Congratulations, Brother Shaohan❗️
@@ -167,6 +168,25 @@ Aobo Zhang†, **Pengyuan Li†**, Jiang Xue†, Jianyun Zhang, Zhu You, Shaohua
 
 
 ## 📑 Other-author Publications
+<div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/ProMA.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProMA: Progressive Multi-scale Anchor Learning for Incremental Multi-View Clustering](https://ieeexplore.ieee.org/abstract/document/11793794)
+
+![IEEE Transactions on Multimedia](https://img.shields.io/badge/IEEE%20Transactions%20on%20Multimedia%202026-E6F7FF?style=flat&color=0091FF)
+![CCF A](https://img.shields.io/badge/CCF%20A-FFECEC?style=flat&color=FF3333)
+![JCR Q1](https://img.shields.io/badge/JCR%20Q1-D1FAE3?style=flat&color=00C853)
+![IF 9.9](https://img.shields.io/badge/IF%209.9-FFEBC2?style=flat&color=FF9800)
+
+Bo Zhong, Zisen Kong, **Pengyuan Li**, Dongxia Chang, Yiming Wang, Yao Zhao
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11793794) | [**Code**](#) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel Progressive Multi-scale Anchor learning (ProMA) framework that enables the fusion of sequentially arriving information and facilitates the stable and long-term accumulation of consensus knowledge.
+</div>
+</div>
+
+
 
 <div class='paper-box' style="margin-top: -15px;"><div class='paper-box-image'><div><div class="badge">NN 2026</div><img src='images/ADIMC.png' alt="sym" style="height: 240px; width: 100%; max-width: 395px;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -323,7 +343,9 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
 
 # 🎖 Honors and Awards
-- *2026.04* Supported by Fundamental Research Funds for the Central Universities.
+- *2026.11* Third Prize of Huawei Cup 8th China Graduate AI Innovation Competition (CGAIC).
+- *2026.10* National Scholarship for Postgraduates.
+- *2026.04* Supported by Fundamental Research Funds for Central Universities.
 - *2025.11* First-class Academic Scholarship of Beijing Jiaotong University.
 - *2025.11* Special Scholarship of Beijing Jiaotong University - Jiaokong Technology Scholarship.
 - *2023.11* First-class Academic Scholarship of Beijing Jiaotong University. 
@@ -333,10 +355,10 @@ Zisen Kong, Zhiqiang Fu, Dongxia Chang*, Yiming Wang, **Pengyuan Li**, Yao Zhao
 
 # 📌 Services
 ## Conferences 
-- Reviewer: NeurIPS/ICML/AAAI/ACM MM
+- Reviewer: NeurIPS/ICML/ICLR/WWW/CVPR/AAAI/ACM MM
 
 ## Journal
-- Reviewer: IEEE TPAMI/TIP/TKDE/TCYB/TNNLS/TMM, Neurocomputing 
+- Reviewer: IEEE TPAMI/TIP/TKDE/TCYB/TNNLS/TMM, PR, Neurocomputing 
 
 # 📖 Educations
 - *2024.06 - now*, Ph.D. Student @ Beijing Jiaotong University, supervised by Prof. Dongxia Chang.
